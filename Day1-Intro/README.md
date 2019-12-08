@@ -41,7 +41,7 @@ Python
 - Bosting the agricultural sector's strength 
 
 
-# Top-level directory layout
+# Proposed directory layout
 
     .
     ├── data                    # Dataset Samples
