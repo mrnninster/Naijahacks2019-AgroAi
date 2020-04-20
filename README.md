@@ -51,6 +51,7 @@ Python
 
 
 # How to setup project and run locally
+all you just need is to install the apk file
 
 ### Clone the repository 
 
@@ -58,3 +59,7 @@ Python
 git clone https://github.com/mrnninster/AgroAi.git
 ```
 
+## UPDATE
+I owe it to you guys to notify you that a newer more stable version of this project is being built, unfortunately it 
+won't be available on here, but the applications will be available in the iOS and Play Store. However if you are working
+on a project similar to this, please feel free to contact me, I will help you as best as I can at **_hoisterlimit@gmail.com_**. THANKYOU
